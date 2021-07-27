@@ -1,5 +1,5 @@
-This is my new paper
-Written by: me
+This is my new COLLABORATIVE paper
+Written by: me and JOHN
 
 ## Introduction
 
