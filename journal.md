@@ -7,7 +7,12 @@ Very important intro.
 
 ## Results
 
+
 Really cool results!
+
+## Figures
+
+Some awesome figures that I made
 
 ## References
 
